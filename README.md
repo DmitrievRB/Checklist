@@ -1,2 +1,3 @@
-# Checklist
-token
+# TrainingPostman
+Репозиторий для тренировок по Postman 1
+
